@@ -1,6 +1,6 @@
 <?php
 
-    echo "Floating Point : ";
+    echo "floating Point : ";
     var_dump(1.234);
     echo "Floating Point dengan E notation Plus (1.2 x 1000): ";
     var_dump(1.2e3);
