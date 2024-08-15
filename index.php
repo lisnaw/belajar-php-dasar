@@ -2,9 +2,10 @@
 
 $nama = "Lisnawati";
 $umur = "17";
-$ttl = "Sumedang,12 juli 200*";
+$ttl = "Sumedang,12 juli 2007";
 $askot = "Sumedang";
 $asalsekolah = "Smk negeri 2 sumedang";
+
 
 echo " ";
 echo "Name : $nama". "<br>";
